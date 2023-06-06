@@ -7,7 +7,7 @@ Proposed Methodology:
 * Data Collection (Kaggle.com).
 * Data Preprocessing.
   
-![image](https://github.com/VIX0510/Heart-Disease-Detection-Using-ML/assets/65900706/7dc3067b-6423-49a8-97c1-6aada07d8bfa)
+  ![image](https://github.com/VIX0510/Heart-Disease-Detection-Using-ML/assets/65900706/7dc3067b-6423-49a8-97c1-6aada07d8bfa)
 
 * Feature Selection.
   
