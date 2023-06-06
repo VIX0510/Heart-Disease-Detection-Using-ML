@@ -4,10 +4,9 @@ Heart disease is a leading cause of mortality worldwide, and early detection is 
 However, developing accurate ML models for heart disease detection faces several challenges. One such challenge is related to data quality, where the quality of input data determines the accuracy of the model. Imbalanced datasets, where one class has significantly more samples than the other, can also lead to inaccurate predictions. Model interpretability is also vital in developing accurate ML models.
 
 Proposed Methodology:
-  Data Collection (Kaggle.com)
-  Data Preprocessing 
-  
+  Data Collection (Kaggle.com).
+  Data Preprocessing.
 ![image](https://github.com/VIX0510/Heart-Disease-Detection-Using-ML/assets/65900706/7dc3067b-6423-49a8-97c1-6aada07d8bfa)
 
-  Feature Selection
+  Feature Selection.
   
